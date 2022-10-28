@@ -68,9 +68,9 @@ async def AsuX_boot():
     )
     console.print(header)
     with console.status(
-        "[magenta] ʙᴏᴏᴛɪɴɢ ᴀsᴜx ᴍᴜsɪᴄ ʙᴏᴛ...",
+        "[magenta] ʙᴏᴏᴛɪɴɢ ιккυx ᴍᴜsɪᴄ ʙᴏᴛ...",
     ) as status:
-        console.print("┌ [red]ʙᴏᴏᴛɪɴɢ ᴀsᴜx ᴍᴜsɪᴄ ᴄʟɪᴇɴᴛs...\n")
+        console.print("┌ [red]ʙᴏᴏᴛɪɴɢ ιккυx ᴍᴜsɪᴄ ᴄʟɪᴇɴᴛs...\n")
         await app.start()
         await Ass.start()
         console.print("└ [green]ᴄʟɪᴇɴᴛs ʙᴏᴏᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ!")
