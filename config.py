@@ -20,8 +20,8 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/c5952790fa8235f499749.jpg")
 START_IMG = getenv("START_IMG")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AbishnoiMF ")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", " https://t.me/Abishnoi_bots ")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/sidekickfriend ")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", " https://t.me/ikku_hoi ")
 
 STRING_SESSION = getenv("STRING_SESSION", None)
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1452219013").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1890206319").split()))
