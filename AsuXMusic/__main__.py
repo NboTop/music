@@ -106,7 +106,7 @@ async def AsuX_boot():
         console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
         return
     try:
-        await Ass.join_chat("idekickfriend")
+        await Ass.join_chat("sidekickfriend")
         await Ass.join_chat("ikku_hoi")
     except:
         pass
