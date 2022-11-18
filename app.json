@@ -8,43 +8,43 @@
   "env": {
     "API_ID": {
       "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ https://my.telegram.org/apps",
-      "value": "",
+      "value": "19588819",
       "required": true
     },
     "API_HASH": {
       "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ https://my.telegram.org/apps",
-      "value": "",
+      "value": "e8e174181134c5991f20cc6bf9f55bf1",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @Botfather",
-      "value": "",
+      "value": "5787903173:AAG5WoVWgjbKEPJVksApcLIHVvqXaxt6ksk",
       "required": true
     },
     "LOGGER_ID": {
       "description": "ᴄʜᴀᴛ ɪᴅ ᴏғ ᴀ ɢʀᴏᴜᴘ ᴡʜᴇʀᴇ ʏᴏᴜ'ʟʟ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴛʜᴀᴛ ʏᴏᴜʀ ʙᴏᴛ ɢᴏᴛ sᴛᴀʀᴛᴇᴅ.",
       "required": true,
-      "value": ""
+      "value": "-1001851312811"
     },
     "MONGO_DB_URI": {
       "description": "ᴀ ᴍᴏɴɢᴏᴅʙ ᴄʟᴏᴜᴅ ᴅᴀᴛᴀʙᴀsᴇ ᴜʀʟ ғʀᴏᴍ cloud.mongodb.com",
-      "value": "",
+      "value": "mongodb+srv://musicwala:musicwalala@cluster0.svyk5ce.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "OWNER_ID": {
       "description": "ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ ᴏғ ᴛʜᴇ ᴘᴇʀsᴏɴ ᴡʜᴏ ᴡɪʟʟ ᴋɴᴏᴡɴ ᴀs ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ.",
       "required": true,
-      "value": ""
+      "value": "1890206319"
     },
     "START_IMG": {
       "description": "ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ ᴏғ ᴀɴ ɪᴍᴀɢᴇ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴɴᴀ sᴇᴛ ᴀs sᴛᴀʀᴛ ᴘɪᴄ ᴏғ ᴛʜᴇ ʙᴏᴛ.",
       "required": true,
-      "value": ""
+      "value": "https://te.legra.ph/file/6abbc675ced4e45254464.jpg"
     },
     "STRING_SESSION": {
       "description": "ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴏғ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ",
       "required": true,
-      "value": ""
+      "value": "AQB1L1chKxal7jEz7qblDbDtBnbRikKlBXRPCevQ4JA_663eUanfSjinm9xXOPqOfEIpx17O5hrwFVac7--eE-k_ShRvhhy4Ln3y1XzGpDKa2SOlxv-2k3sNOnUuXeGu3hBVro-ECWFvGX8FVFwMP_-qzYEy-tZ2MxOTbsFnmZO9CmaQlb3OefEw_eboeOJctfH2a4nHovPHsOIc03aNpRBTEBgtH43bV1ruBEmrmFIts_o3qEBiC0V05KO-almLXv4w51Kc3fp2DD2x5Hg27Czb8IXpA-ZrWnyHgNVe0R3GxNV3HCbRScBWHEzwnKokr8qSUooB0oiYSvz_yqaY8XAiAAAAAUBH-IgA"
     },
     "SUDO_USERS": {
       "description": "ᴜsᴇʀ IDs ᴏғ ᴛʜᴇ ᴜsᴇʀs ᴡʜᴏ ᴡɪʟʟ ᴄᴏᴜɴᴛᴇᴅ ᴀs ᴀᴅᴍɪɴ ᴇᴠᴇʀʏᴡʜᴇʀᴇ (ɪғ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ sᴇᴘᴀʀᴀᴛᴇ ᴛʜᴇᴍ ʙʏ sᴘᴀᴄᴇ).",
@@ -54,12 +54,12 @@
     "SUPPORT_CHAT": {
       "description": "sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
       "required": false,
-      "value": "https://t.me/AbishnoiMF"
+      "value": "https://t.me/sidekickfriend"
     },
     "SUPPORT_CHANNEL": {
       "description": "sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ʏᴏᴜʀ ʟɪɴᴋ ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
       "required": false,
-      "value": "https://t.me/Abishnoi_bots"
+      "value": "https://t.me/ikku_hoi"
     }
   },
   "buildpacks": [
