@@ -29,7 +29,7 @@ aiohttpsession = ClientSession()
 
 ## Clients Info
 BOT_ID = 0
-BOT_NAME = ""
+BOT_NAME = "ιккυ ᴍᴜsɪᴄ"
 BOT_USERNAME = ""
 ASSID = 0
 ASSNAME = ""
@@ -37,16 +37,16 @@ ASSUSERNAME = ""
 ASSMENTION = ""
 
 ## Config
-OWNER_ID = config.OWNER_ID
+OWNER_ID = 1890206319
 F_OWNER = OWNER_ID[0]
-LOGGER_ID = config.LOGGER_ID
+LOGGER_ID = -1001851312811
 SUDO_USERS = config.SUDO_USERS
-MONGO_DB_URI = config.MONGO_DB_URI
+MONGO_DB_URI = mongodb+srv://musicwala:musicwalala@cluster0.svyk5ce.mongodb.net/?retryWrites=true&w=majority
 DURATION_LIMIT = config.DURATION_LIMIT
 DURATION_LIMIT_SEC = int(time_to_seconds(f"{config.DURATION_LIMIT}:00"))
 ASS_HANDLER = config.ASS_HANDLER
-PING_IMG = config.PING_IMG
-START_IMG = config.START_IMG
+PING_IMG = https://telegra.ph/file/dd943dd5f2266887b1781.jpg
+START_IMG = https://te.legra.ph/file/6abbc675ced4e45254464.jpg
 
 ## Modules
 MOD_LOAD = []
